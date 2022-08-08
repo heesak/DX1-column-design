@@ -1,0 +1,14 @@
+.parent-div{
+    height: 300px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(161, 8, 8);
+    border: 10px black;
+    }
+    .left div{
+        width: 40%;
+        background: tomato;
+        height: 500px;
+        border: 5px black;
+    }
+  
